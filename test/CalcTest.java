@@ -1,5 +1,5 @@
 /**
- * テスト#1
+ * テスト#2
  */
 public class CalcTest {
 
